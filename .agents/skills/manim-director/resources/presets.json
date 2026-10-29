@@ -1,0 +1,84 @@
+{
+  "presets": {
+    "minimalist_explainer": {
+      "name": "Minimalist Explainer (Estilo 3Blue1Brown)",
+      "description": "Fondo oscuro mate, líneas limpias y elegantes, enfoque en la geometría, diagramas abstractos y claridad conceptual.",
+      "background_color": "#111111",
+      "palette": {
+        "primary": "#58C4DD",
+        "secondary": "#83C167",
+        "accent": "#FFFF00",
+        "danger": "#FF6B6B",
+        "text": "#ECEEDF",
+        "muted": "#777777"
+      },
+      "default_aspect_ratio": "16:9",
+      "typography": "Sans-serif o Serif formal (Computer Modern o Roboto)",
+      "pacing": "Pausado, reflexivo, con transformaciones graduales (run_time: 1.5 - 2.5s)."
+    },
+    "modern_tech_dark": {
+      "name": "Modern Tech / Dark Neon",
+      "description": "Fondo azul noche/grafito, acentos fluorescentes, glow suave, ideal para arquitectura de software, DevOps, ciberseguridad o algoritmos.",
+      "background_color": "#0D1117",
+      "palette": {
+        "primary": "#58A6FF",
+        "secondary": "#3FB950",
+        "accent": "#F0883E",
+        "danger": "#F85149",
+        "text": "#F0F6FC",
+        "muted": "#484F58"
+      },
+      "default_aspect_ratio": "16:9",
+      "typography": "Monospace o Sans-Serif moderna (JetBrains Mono / Inter)",
+      "pacing": "Dinámico, ágil, transiciones con cortes limpios y fades rápidos (run_time: 0.8 - 1.5s)."
+    },
+    "infographic_motion": {
+      "name": "Infographic Motion / Flat Design",
+      "description": "Estilo corporativo contemporáneo con contraste nítido, formas geométricas redondeadas, iconos y métricas.",
+      "background_color": "#1E222A",
+      "palette": {
+        "primary": "#4C8BF5",
+        "secondary": "#26A69A",
+        "accent": "#FFB74D",
+        "danger": "#E57373",
+        "text": "#FFFFFF",
+        "muted": "#90A4AE"
+      },
+      "default_aspect_ratio": "16:9",
+      "typography": "Sans-serif geométrica (Montserrat / Poppins / Arial)",
+      "pacing": "Ritmo medio, animaciones secuenciales con rebote suave (run_time: 1.0 - 1.8s)."
+    },
+    "social_short_vertical": {
+      "name": "Social Reel / TikTok / Shorts (9:16)",
+      "description": "Formato vertical para dispositivos móviles. Enfoque centrado, textos grandes con márgenes de seguridad amplios, elementos llamativos.",
+      "background_color": "#0A0A0A",
+      "palette": {
+        "primary": "#00F0FF",
+        "secondary": "#00FF85",
+        "accent": "#FFE600",
+        "danger": "#FF0055",
+        "text": "#FFFFFF",
+        "muted": "#555555"
+      },
+      "default_aspect_ratio": "9:16",
+      "typography": "Sans-serif negrita / impactante",
+      "pacing": "Muy rápido, directo al grano, transiciones continuas sin pausas largas (run_time: 0.5 - 1.0s)."
+    },
+    "clean_light_chalkboard": {
+      "name": "Clean Light / Paper Modern",
+      "description": "Fondo claro o crema suave, trazos oscuros tipo tinta o tiza digital, ideal para docencia amigable y tutoriales paso a paso.",
+      "background_color": "#F8F9FA",
+      "palette": {
+        "primary": "#1A73E8",
+        "secondary": "#0F9D58",
+        "accent": "#F4B400",
+        "danger": "#D93025",
+        "text": "#202124",
+        "muted": "#5F6368"
+      },
+      "default_aspect_ratio": "16:9",
+      "typography": "Sans-serif clara (Roboto / Lato)",
+      "pacing": "Didáctico y estructurado (run_time: 1.2 - 2.0s)."
+    }
+  }
+}
